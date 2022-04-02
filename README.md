@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="images/logo.png" alt='HisnElmoslem logo'/>
+<img src="images/logo.png" alt='Balgho Convey App'/>
 	
 
 # تطبيق بلغوا عني ولو آية
