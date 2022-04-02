@@ -11,6 +11,8 @@
 
 
 يحتوي التطبيق علي القرآن الكريم واذاعات القران واذكار الصباح والمساء وبعض الادعية الذي يحتاجها المسلم في حياته وايضا مواقيت الصلاة واتجاه القبلة وكتاب الاربعون النووية
+	
+	
 The application contains the Noble Qur’an, Qur’an radio stations, morning and evening remembrances, and some supplications that a Muslim needs in his life, as well as prayer times, the direction of the qiblah, and the Forty-Nawawi book
 	
 [<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
