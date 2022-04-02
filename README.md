@@ -39,7 +39,7 @@
 <img src="images/nawawiPage.png" height="400" >
 <img src="images/nawawiPageTwo.png" height="400" >
 
-<div align="light">
+<div align="left">
 
 # Apis 
 
