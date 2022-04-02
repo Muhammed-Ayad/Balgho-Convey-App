@@ -6,7 +6,7 @@
 
 # تطبيق بلغوا عني ولو آية
 	
-[![version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Muhammed-Ayad/Balgho-Convey-App/main)	
+[![version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Muhammed-Ayad/Balgho-Convey-App)	
 [![Downloads](https://PlayBadges.pavi2410.me/badge/downloads?id=com.convey.ayah.mohamed.ayad)](https://play.google.com/store/apps/details?id=com.convey.ayah.mohamed.ayad)
 
 
