@@ -5,10 +5,9 @@
 	
 
 # تطبيق بلغوا عني ولو آية
-	
-[![version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Muhammed-Ayad/Balgho-Convey-App)	
-[![Downloads](https://PlayBadges.pavi2410.me/badge/downloads?id=com.convey.ayah.mohamed.ayad)](https://play.google.com/store/apps/details?id=com.convey.ayah.mohamed.ayad)
 
+[![version](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/Muhammed-Ayad/Balgho-Convey-App)	
+[![Downloads](https://PlayBadges.pavi2410.me/badge/downloads?id=com.convey.ayah.mohamed.ayad)](https://play.google.com/store/apps/details?id=com.convey.ayah.mohamed.ayad)
 
 يحتوي التطبيق علي القرآن الكريم واذاعات القران واذكار الصباح والمساء وبعض الادعية الذي يحتاجها المسلم في حياته وايضا مواقيت الصلاة واتجاه القبلة وكتاب الاربعون النووية
 	
@@ -29,19 +28,20 @@ The application contains the Noble Qur’an, Qur’an radio stations, morning an
 الصفحة أو الرقم: 3461 | خلاصة حكم المحدث : [صحيح] |
 ```
 
+<img src="images/1.jpg" height="400" >
+<img src="images/2.png" height="400" >
+<img src="images/3.png" height="400" >
+<img src="images/4.png" height="400" >
+<img src="images/5.png" height="400" >
+<img src="images/6.png" height="400" >
+<img src="images/7.png" height="400" >
+<img src="images/8.png" height="400" >
+<img src="images/9.png" height="400" >
+<img src="images/10.png" height="400" >
+<img src="images/11.png" height="400" >
+<img src="images/12.png" height="400" >
 
-<img src="images/splashScreen.jpg" height="400" >
-<img src="images/home.png" height="400" >
-<img src="images/quranPage.png" height="400" >
-<img src="images/suraPage.png" height="400" >
-<img src="images/radioPage.png" height="400" >
-<img src="images/radioItem.png" height="400" >
-<img src="images/azkarPage.png" height="400" >
-<img src="images/zakrItem.png" height="400" >
-<img src="images/azanPage.png" height="400" >
-<img src="images/qublaPage.png" height="400" >
-<img src="images/nawawiPage.png" height="400" >
-<img src="images/nawawiPageTwo.png" height="400" >
+<img src="images/13.png" height="400" >
 
 <div align="left">
 
@@ -66,25 +66,28 @@ The application contains the Noble Qur’an, Qur’an radio stations, morning an
 
 # Package
 
-## audioplayers :   A Flutter plugin to play multiple simultaneously audio files, works for Android, iOS, macOS and web.
+### audioplayers :   A Flutter plugin to play multiple simultaneously audio files, works for Android, iOS, macOS and web.
 
-## carousel_slider :A carousel slider widget.
+### carousel_slider :A carousel slider widget.
 
-## equatable : Simplify Equality Comparisons
+### equatable : Simplify Equality Comparisons
 
-## flutter_bloc  : Widgets that make it easy to integrate blocs and cubits into Flutter. Built to work with package:bloc.
+### flutter_bloc  : Widgets that make it easy to integrate blocs and cubits into Flutter. Built to work with package:bloc.
 
-## flutter_compass :A Flutter compass. The heading varies from 0-360, 0 being north.
+### flutter_compass :A Flutter compass. The heading varies from 0-360, 0 being north.
 
-## flutter_localizations : How to track the device’s locale (the user’s preferred language).
+### flutter_localizations : How to track the device’s locale (the user’s preferred language).
 
-## google_fonts : The google_fonts package for Flutter allows you to easily use any of the thousands of fonts available from fonts.google.com in your Flutter app.
+### http : A composable, Future-based library for making HTTP requests.
 
-## http : A composable, Future-based library for making HTTP requests.
+### intl : Provides internationalization and localization facilities, including message translation, plurals and genders, date/number formatting and parsing, and bidirectional text.
 
-## intl : Provides internationalization and localization facilities, including message translation, plurals and genders, date/number formatting and parsing, and bidirectional text.
+### share_plus : A Flutter plugin to share content from your Flutter app via the platform's share dialog.
 
-## loading_animation_widget : 
+### clipboard : A flutter package that helps copy text to clipboard and paste from clipboard.
 
-## share_plus : A Flutter plugin to share content from your Flutter app via the platform's share dialog.
+###  in_app_review: Flutter plugin for showing the In-App Review/System Rating pop up on Android, IOS and MacOS. It makes it easy for users to rate your app
 
+### change_app_package_name : Change App Package Name with single command. Update AndroidManifest, build.gradle, MainActivity files & move MainActivity file to new directory structure automatically.
+
+### flutter_native_splash : Customize Flutter's default white native splash screen with background color and splash image. Supports dark mode, full screen, and more.
